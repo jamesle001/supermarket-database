@@ -1,5 +1,5 @@
 # supermarket-database
-This project is a part of assessments on Database Design and Implementation from Nanyang Technological Univeristy, Singapore.
+This project is a part of assessments on Database Design and Implementation course from Nanyang Technological Univeristy, Singapore.
 
 The database is designed and created to record retail sales and manage retail services for a supermarket with many branches. 
 -	The database includes important information of employees, branches, customers, products, products purchased by customers, and products purchased from suppliers as well as suppliers’ details.
